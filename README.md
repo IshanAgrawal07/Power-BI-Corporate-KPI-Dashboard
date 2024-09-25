@@ -38,18 +38,23 @@ This dashboard provides the heads of Singapore SportsHub with comprehensive insi
 # Snapshot of Dashboard
 
  - KPI Summary Page
+   
 ![Corporate KPI Dashboard - Summary](https://github.com/user-attachments/assets/4a8cc57a-eceb-40c4-a99b-9e4849cb8a59)
 
  - Footfall Page
+   
  ![Corporate KPI Dashboard - Footfall](https://github.com/user-attachments/assets/bfde390f-e2f9-4e51-b222-971de1f14cfa)
 
  - Event Attendance Page
+   
  ![Corporate KPI Dashboard - Event Attendance](https://github.com/user-attachments/assets/072beac3-8107-4669-8752-cd10395fd3cb)
 
  - Finance Page
+   
  ![Corporate KPI Dashboard - Finance](https://github.com/user-attachments/assets/6261c422-be9e-4659-88e7-5763b8911418)
 
  
 
 # Data Model
+
 ![Corporate KPI Dashboard - Data Model](https://github.com/user-attachments/assets/9e140596-11cd-40da-b81b-d6217e000c49)
