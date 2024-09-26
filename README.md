@@ -1,5 +1,7 @@
 # Corporate KPI Dashboard
 
+![Corporate KPI](https://github.com/user-attachments/assets/13c9cd59-30d6-4b05-ac76-2a1de40f4638)
+
 
 ## Problem Statement
 
