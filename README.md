@@ -1,6 +1,6 @@
 # Corporate KPI Dashboard + Mobile App
 
-The dashboard can be viewed on both Power BI Web and the Power BI Mobile App. The following demo showcases the mobile layout towards the end.
+The dashboard can be viewed on both **Power BI Web** and the **Mobile App**. The following demo showcases mobile layout towards the end.
 
 ![Corporate KPI](https://github.com/user-attachments/assets/ab893d56-17e1-43c3-bc2b-c153466f2012)
 
