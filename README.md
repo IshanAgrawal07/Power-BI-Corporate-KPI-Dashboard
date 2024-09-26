@@ -4,6 +4,8 @@
 
 ![Corporate KPI GIF](https://github.com/user-attachments/assets/b7e7c9ed-8c96-460a-a525-2554da7cf766)
 
+![Corporate KPI](https://github.com/user-attachments/assets/ab893d56-17e1-43c3-bc2b-c153466f2012)
+
 
 ## Problem Statement
 
