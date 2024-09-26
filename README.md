@@ -33,7 +33,7 @@ This dashboard provides the heads of Singapore SportsHub with comprehensive insi
         Footfall YTD = TOTALYTD(Sum(Footfall[Footfall]), 'Date'[Date])
 
 
-![Footfall YTD](https://github.com/user-attachments/assets/4de6124e-3a2e-4f67-9b96-e8415db1826d)
+    ![Footfall YTD](https://github.com/user-attachments/assets/4de6124e-3a2e-4f67-9b96-e8415db1826d)
 
 
  - Step 9: Repeat similar steps to create measures for the remaining KPIs, ensuring consistency and accuracy across all calculations.
